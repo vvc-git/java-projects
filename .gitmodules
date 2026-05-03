@@ -13,3 +13,6 @@
 [submodule "dsa"]
 	path = dsa
 	url = https://github.com/vvc-git/dsa.git
+[submodule "neetcode"]
+	path = neetcode
+	url = https://github.com/vvc-git/neetcode-submissions
