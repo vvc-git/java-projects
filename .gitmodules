@@ -10,3 +10,6 @@
 [submodule "course-api"]
 	path = course-api
 	url = https://github.com/vvc-git/course-api
+[submodule "dsa"]
+	path = dsa
+	url = https://github.com/vvc-git/dsa.git
