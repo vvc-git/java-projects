@@ -1,3 +1,12 @@
 [submodule "spring-boot-fundamentals-1"]
 	path = spring-boot-fundamentals-1
 	url = https://github.com/vvc-git/spring-boot-fundamentals-1
+[submodule "spring-boot-fundamentals-2"]
+	path = spring-boot-fundamentals-2
+	url = https://github.com/vvc-git/spring-boot-fundamentals-2
+[submodule "hiring-managment-api"]
+	path = hiring-managment-api
+	url = https://github.com/vvc-git/hiring-managment-api
+[submodule "course-api"]
+	path = course-api
+	url = https://github.com/vvc-git/course-api
